@@ -1,6 +1,7 @@
 my_dict = {'Sergei' : 1998,
            'Anna' : 1997,
            'Mikhail' : 2024}
+print(my_dict)
 print(my_dict['Sergei'])
 my_dict['Dmitry'] = 1990
 print(my_dict['Dmitry'])
